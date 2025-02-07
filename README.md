@@ -1,4 +1,4 @@
-# 🩺 CureConnect
+# 🩺 CureConnect - _Smart, Simple, Seamless Healthcare_
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/noobrehan18/CureConnect)
 
