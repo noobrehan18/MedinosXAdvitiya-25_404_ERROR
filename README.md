@@ -185,7 +185,7 @@ Thank you for considering contributing to CureConnect! Your involvement is great
 
 ## How to Contribute
 
-1. **Fork the Repository**: Click the "Fork" button at the top right of the [CureConnect GitHub repository](https://github.com/noobrehan18/CureConnect).
+1. **Fork the Repository**: Click the "Fork" button at the top right of the [CureConnect GitHub repository](https://github.com/noobrehan18/MedinosXAdvitiya-25_404_ERROR).
 
 2. **Create a New Branch**:
    ```bash
